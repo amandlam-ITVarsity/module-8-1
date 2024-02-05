@@ -1,0 +1,49 @@
+body{
+ background-color: purple;
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+ height: 100%;
+}
+
+.container{
+    padding: 10px;
+    background-color: white;
+    margin: 10px;
+    width: 50%;
+    margin-left: 25%;
+    height: 700px;
+    background-color: rgb(255, 63, 255);
+}
+
+.content{
+    text-align: center;
+}
+
+#welcome{
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form{
+    margin-top: 20%;
+    font-family: cursive;
+    color: white;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: rgb(92, 65, 92);
+}
+
+#hint{
+    color: white;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
